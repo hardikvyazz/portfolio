@@ -104,30 +104,33 @@ export const projects = [
     link: "/ui.apple.com",
   },
 ];
-
 export const testimonials = [
   {
-    quote: "",
+    quote:
+      "Completed my 10th grade from Holy Angel's High School, Bangalore, in 2016. Dominated the sports field like an athlete in their prime, bagging multiple medals and trophies. Also served as class monitor for two years—let’s just say, my leadership had more force than Newton’s Second Law in action.",
     name: "Holy Angel's High School",
-    title: "x-Student (ICSE)",
+    title: "Ex-Student (ICSE)",
   },
   {
     quote:
-      "",
+      "Graduated from 2nd PUC in PCMB at Bunts Sangha RNS Composite PU College, Bangalore, in 2018. Played Badminton with the precision of a well-calculated equation, winning multiple tournaments. If success had a formula, I was solving for X every time.",
     name: "Bunts Sangha RNS Composite PU College",
-    title: "12th Grade/ 2nd PUC",
+    title: "12th Grade / 2nd PUC",
   },
   {
-    quote:"",
+    quote:
+      "Started my B.Tech journey in 2018 and graduated in 2022 from MS Ramaiah University of Applied Sciences, Bangalore. I was part of a core team that organized multiple events—essentially keeping the engine running behind the scenes. Along the way, I picked up Table Tennis and made it to the finals of the intra-college competition. Safe to say, I knew how to handle both gears and paddles—just like I handle Try and Catch now.",
     name: "MS Ramaiah University of Applied Sciences",
-    title: "B.Tech",
+    title: "B.Tech Graduate",
   },
   {
-    quote:"",
+    quote:
+      "Began my developer journey at Kodnest, where I leveled up my web development and database skills—basically, my origin story. Worked on multiple projects while getting familiar with DSA & Algorithms (because SEO demands it). I learned to structure things properly—whether it was HTML, CSS, or Python, where whitespace isn’t just an aesthetic choice, it’s the law. Debugging? Think of it like handling JavaScript promises—I always try to resolve, but sometimes, I just have to reject and refactor.",
     name: "Kodnest",
-    title: "Intern Training",
+    title: "Developer Training",
   },
 ];
+
 
 export const companies = [
   {
@@ -165,31 +168,24 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Software Developer - Kenscio",
+    desc: "Developed multiple products that helped kenscio to grow their business and increase their revenue.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Software Trainee - Kenscio",
+    desc: "Developed Kenscio.com and mutiple wordpress webiste for their clients.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Internship - Aghreni Technologies Pvt. Ltd",
+    desc: "Automated many data process and helped them to reduce their manual work and time.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
-  },
-  {
-    id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
-    className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
   },
 ];
 
