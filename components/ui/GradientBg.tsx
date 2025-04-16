@@ -43,9 +43,10 @@ export const BackgroundGradientAnimation = ({
 
   // 🌐 Safe DOM style setup
   useEffect(() => {
-    if (typeof window === "undefined") return;
+    if (typeof window === "undefined" || typeof document === "undefined")
+      return;
 
-    const bodyStyle = document?.body?.style;
+    const bodyStyle = document.body?.style;
     if (!bodyStyle) return;
 
     bodyStyle.setProperty(
