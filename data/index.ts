@@ -107,27 +107,32 @@ export const projects = [
 export const Education = [
   {
     quote:
-      "Completed my 10th grade from Holy Angel's High School, Bangalore, in 2016. Dominated the sports field like an athlete in their prime, bagging multiple medals and trophies. Also served as class monitor for two years—let’s just say, my leadership had more force than Newton’s Second Law in action.",
-    name: "Holy Angel's High School",
-    title: "Ex-Student (ICSE)",
+      "Started my B.Tech journey in 2018 and graduated in 2022 from MS Ramaiah University of Applied Sciences, Bangalore. I was part of a core team that organized multiple events—essentially keeping the engine running behind the scenes. Along the way, I picked up Table Tennis and made it to the finals of the intra-college competition. Safe to say, I knew how to handle both gears and paddles—just like I handle Try and Catch now.",
+    name: "MS Ramaiah University of Applied Sciences",
+    title: "B.Tech Graduate",
+    year: "2022",
   },
   {
     quote:
       "Graduated from 2nd PUC in PCMB at Bunts Sangha RNS Composite PU College, Bangalore, in 2018. Played Badminton with the precision of a well-calculated equation, winning multiple tournaments. If success had a formula, I was solving for X every time.",
     name: "Bunts Sangha RNS Composite PU College",
     title: "12th Grade / 2nd PUC",
+    year: "2018",
   },
   {
     quote:
-      "Started my B.Tech journey in 2018 and graduated in 2022 from MS Ramaiah University of Applied Sciences, Bangalore. I was part of a core team that organized multiple events—essentially keeping the engine running behind the scenes. Along the way, I picked up Table Tennis and made it to the finals of the intra-college competition. Safe to say, I knew how to handle both gears and paddles—just like I handle Try and Catch now.",
-    name: "MS Ramaiah University of Applied Sciences",
-    title: "B.Tech Graduate",
+      "Completed my 10th grade from Holy Angel's High School, Bangalore, in 2016. Dominated the sports field like an athlete in their prime, bagging multiple medals and trophies. Also served as class monitor for two years—let’s just say, my leadership had more force than Newton’s Second Law in action.",
+    name: "Holy Angel's High School",
+    title: "Ex-Student (ICSE)",
+    year: "2016",
   },
+
   {
     quote:
       "Began my developer journey at Kodnest, where I leveled up my web development and database skills—basically, my origin story. Worked on multiple projects while getting familiar with DSA & Algorithms (because SEO demands it). I learned to structure things properly—whether it was HTML, CSS, or Python, where whitespace isn’t just an aesthetic choice, it’s the law. Debugging? Think of it like handling JavaScript promises—I always try to resolve, but sometimes, I just have to reject and refactor.",
     name: "Kodnest",
     title: "Developer Training",
+    year: "2023",
   },
 ];
 
