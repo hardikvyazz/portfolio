@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Testimonials", link: "#testimonials" },
+  { name: "Education", link: "#education" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -104,7 +104,7 @@ export const projects = [
     link: "/ui.apple.com",
   },
 ];
-export const testimonials = [
+export const Education = [
   {
     quote:
       "Completed my 10th grade from Holy Angel's High School, Bangalore, in 2016. Dominated the sports field like an athlete in their prime, bagging multiple medals and trophies. Also served as class monitor for two years—let’s just say, my leadership had more force than Newton’s Second Law in action.",
